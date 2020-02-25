@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="spring">
+        <item>@drawable/sp001</item>
+        <item>@drawable/sp002</item>
+        <item>@drawable/sp003</item>
+        <item>@drawable/sp004</item>
+        <item>@drawable/sp005</item>
+        <item>@drawable/sp006</item>
+        <item>@drawable/sp007</item>
+        <item>@drawable/sp008</item>
+        <item>@drawable/sp009</item>
+        <item>@drawable/sp010</item>
+        <item>@drawable/sp011</item>
+        <item>@drawable/sp012</item>
+        <item>@drawable/sp013</item>
+        <item>@drawable/sp014</item>
+        <item>@drawable/sp015</item>
+        <item>@drawable/sp016</item>
+        <item>@drawable/sp017</item>
+        <item>@drawable/sp018</item>
+        <item>@drawable/sp019</item>
+        <item>@drawable/sp020</item>
+    </integer-array>
+
+    <integer-array name="party">
+        <item>@drawable/pt001</item>
+        <item>@drawable/pt002</item>
+        <item>@drawable/pt003</item>
+        <item>@drawable/pt004</item>
+        <item>@drawable/pt005</item>
+        <item>@drawable/pt006</item>
+        <item>@drawable/pt007</item>
+        <item>@drawable/pt008</item>
+        <item>@drawable/pt009</item>
+        <item>@drawable/pt010</item>
+        <item>@drawable/pt011</item>
+        <item>@drawable/pt012</item>
+        <item>@drawable/pt013</item>
+        <item>@drawable/pt014</item>
+        <item>@drawable/pt015</item>
+        <item>@drawable/pt016</item>
+        <item>@drawable/pt017</item>
+        <item>@drawable/pt018</item>
+        <item>@drawable/pt019</item>
+        <item>@drawable/pt020</item>
+    </integer-array>
+
+    <integer-array name="chinese">
+        <item>@drawable/cn001</item>
+        <item>@drawable/cn002</item>
+        <item>@drawable/cn003</item>
+        <item>@drawable/cn004</item>
+        <item>@drawable/cn005</item>
+        <item>@drawable/cn006</item>
+        <item>@drawable/cn007</item>
+        <item>@drawable/cn008</item>
+        <item>@drawable/cn009</item>
+        <item>@drawable/cn010</item>
+        <item>@drawable/cn011</item>
+        <item>@drawable/cn012</item>
+        <item>@drawable/cn013</item>
+        <item>@drawable/cn014</item>
+        <item>@drawable/cn015</item>
+        <item>@drawable/cn016</item>
+        <item>@drawable/cn017</item>
+        <item>@drawable/cn018</item>
+        <item>@drawable/cn019</item>
+        <item>@drawable/cn020</item>
+    </integer-array>
+
+    <integer-array name="christmas">
+        <item>@drawable/cm001</item>
+        <item>@drawable/cm002</item>
+        <item>@drawable/cm003</item>
+        <item>@drawable/cm004</item>
+        <item>@drawable/cm005</item>
+        <item>@drawable/cm006</item>
+        <item>@drawable/cm007</item>
+        <item>@drawable/cm008</item>
+        <item>@drawable/cm009</item>
+        <item>@drawable/cm010</item>
+        <item>@drawable/cm011</item>
+        <item>@drawable/cm012</item>
+        <item>@drawable/cm013</item>
+        <item>@drawable/cm014</item>
+        <item>@drawable/cm015</item>
+        <item>@drawable/cm016</item>
+        <item>@drawable/cm017</item>
+        <item>@drawable/cm018</item>
+        <item>@drawable/cm019</item>
+        <item>@drawable/cm020</item>
+    </integer-array>
+
+    <integer-array name="halloween">
+        <item>@drawable/hw_bag</item>
+        <item>@drawable/hw_balloons</item>
+        <item>@drawable/hw_bat</item>
+        <item>@drawable/hw_cauldron</item>
+        <item>@drawable/hw_clown</item>
+        <item>@drawable/hw_ghost</item>
+        <item>@drawable/hw_owl</item>
+        <item>@drawable/hw_pilgrim</item>
+        <item>@drawable/hw_potion</item>
+        <item>@drawable/hw_pumpkin</item>
+        <item>@drawable/hw_scarecrow</item>
+        <item>@drawable/hw_skeleton</item>
+        <item>@drawable/hw_slime</item>
+        <item>@drawable/hw_spellbook</item>
+        <item>@drawable/hw_spider</item>
+        <item>@drawable/hw_tomb</item>
+        <item>@drawable/hw_tree</item>
+        <item>@drawable/hw_vampire</item>
+        <item>@drawable/hw_witch</item>
+        <item>@drawable/hw_zombie</item>
+    </integer-array>
+
+
+</resources>
